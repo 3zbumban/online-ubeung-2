@@ -4,7 +4,9 @@
 
 `
 npm init -y
+
 npm i express -S
+
 npm i nodemon -D
 `
 
@@ -14,6 +16,7 @@ npm i nodemon -D
 npm i
 # danach geht start und dev
 npm run start 
+
 npm run dev
 `
 
