@@ -2,23 +2,23 @@
 
 ## setup
 
-`
+```sh
 npm init -y
 
 npm i express -S
 
 npm i nodemon -D
-`
+```
 
 ## start
 
-`
+```sh
 npm i
+
 # danach geht start und dev
 npm run start 
-
 npm run dev
-`
+```
 
 - start: `node ./src/app.js`
 - dev: `nodemon --watch ./src/* ./src/app.js`
